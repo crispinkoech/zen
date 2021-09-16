@@ -1,0 +1,23 @@
+{
+    "name": "zen",
+    "version": "0.0.1",
+    "description": "\"A mental health app built on Elarian\"",
+    "main": "src/index.js",
+    "scripts": {
+        "app": "node ./src/index.js",
+        "simulate": "node ./src/example.js"
+    },
+    "keywords": [
+        "elarian",
+        "whatsapp",
+        "telegram",
+        "mental",
+        "health"
+    ],
+    "author": "Crispin Kipruto",
+    "license": "ISC",
+    "dependencies": {
+        "config": "^3.3.6",
+        "elarian": "^0.2.15"
+    }
+}

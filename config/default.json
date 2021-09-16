@@ -1,0 +1,15 @@
+{
+    "elarian": {
+        "credentials": {
+            "orgId" : "YOUR_ORG_ID",
+            "appId" : "YOUR_APP_ID",
+            "apiKey": "YOUR_API_KEY"
+        },
+
+        "channels": {
+            "whatsapp": {
+                "number": "YOUR_WHATSAPP_BUSINESS_NUMBER"
+            }
+        }
+    }
+}
